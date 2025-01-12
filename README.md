@@ -13,3 +13,6 @@ $ docker run -d -p 5000:5000 simple-flask-app
 ```
 
 The application will be accessible at http:127.0.0.1:5000
+
+
+Commit at 2025-01-12 13:08:23
